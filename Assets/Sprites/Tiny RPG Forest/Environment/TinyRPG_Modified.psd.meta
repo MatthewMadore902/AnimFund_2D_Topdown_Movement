@@ -1,0 +1,3626 @@
+fileFormatVersion: 2
+guid: 2aa8f567b0489bf4f98b8d1d01882ade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4201421591346631324
+    second: TinyRPG_Modified_0
+  - first:
+      213: 5984460280556764861
+    second: TinyRPG_Modified_1
+  - first:
+      213: -2021616657562330854
+    second: TinyRPG_Modified_2
+  - first:
+      213: -7497356564488894428
+    second: TinyRPG_Modified_3
+  - first:
+      213: -2059024665671267244
+    second: TinyRPG_Modified_4
+  - first:
+      213: 4786039188611457883
+    second: TinyRPG_Modified_5
+  - first:
+      213: -8024263573197328274
+    second: TinyRPG_Modified_6
+  - first:
+      213: -1250807887190466210
+    second: TinyRPG_Modified_7
+  - first:
+      213: -1030340086542579877
+    second: TinyRPG_Modified_8
+  - first:
+      213: 9188598105538347378
+    second: TinyRPG_Modified_9
+  - first:
+      213: -926591403796644419
+    second: TinyRPG_Modified_10
+  - first:
+      213: 2932562488989712296
+    second: TinyRPG_Modified_11
+  - first:
+      213: -1006662891788128893
+    second: TinyRPG_Modified_12
+  - first:
+      213: 4958474959559323370
+    second: TinyRPG_Modified_13
+  - first:
+      213: 1072991362033371294
+    second: TinyRPG_Modified_14
+  - first:
+      213: -7250150872697477529
+    second: TinyRPG_Modified_15
+  - first:
+      213: -7648102764180987967
+    second: TinyRPG_Modified_16
+  - first:
+      213: -7971603437879104738
+    second: TinyRPG_Modified_17
+  - first:
+      213: 3807776626581297593
+    second: TinyRPG_Modified_18
+  - first:
+      213: 4079225875545606852
+    second: TinyRPG_Modified_19
+  - first:
+      213: 1406467991632768952
+    second: TinyRPG_Modified_20
+  - first:
+      213: 1405243837297962389
+    second: TinyRPG_Modified_21
+  - first:
+      213: 698472646282032654
+    second: TinyRPG_Modified_22
+  - first:
+      213: -3014392354019699847
+    second: TinyRPG_Modified_23
+  - first:
+      213: -5020992535468904618
+    second: TinyRPG_Modified_24
+  - first:
+      213: 3016194271863585279
+    second: TinyRPG_Modified_25
+  - first:
+      213: -5318889127434891004
+    second: TinyRPG_Modified_26
+  - first:
+      213: -7300764089867188924
+    second: TinyRPG_Modified_27
+  - first:
+      213: -5144203384383326842
+    second: TinyRPG_Modified_28
+  - first:
+      213: -2296285102014253362
+    second: TinyRPG_Modified_29
+  - first:
+      213: -2150957043348121138
+    second: TinyRPG_Modified_30
+  - first:
+      213: 122189833376233890
+    second: TinyRPG_Modified_31
+  - first:
+      213: 5130522803596910022
+    second: TinyRPG_Modified_32
+  - first:
+      213: -7331047215914232197
+    second: TinyRPG_Modified_33
+  - first:
+      213: -2529254608559183687
+    second: TinyRPG_Modified_34
+  - first:
+      213: -1622077407675760954
+    second: TinyRPG_Modified_35
+  - first:
+      213: -5517971549132364051
+    second: TinyRPG_Modified_36
+  - first:
+      213: 1178002456805958566
+    second: TinyRPG_Modified_37
+  - first:
+      213: 188299012233992579
+    second: TinyRPG_Modified_38
+  - first:
+      213: -7202778246754732051
+    second: TinyRPG_Modified_39
+  - first:
+      213: -3406659460273351338
+    second: TinyRPG_Modified_40
+  - first:
+      213: -2463911928589698640
+    second: TinyRPG_Modified_41
+  - first:
+      213: 581793334950424380
+    second: TinyRPG_Modified_42
+  - first:
+      213: -6257635059955497925
+    second: TinyRPG_Modified_43
+  - first:
+      213: -1999570050838625430
+    second: TinyRPG_Modified_44
+  - first:
+      213: 1832880112919989163
+    second: TinyRPG_Modified_45
+  - first:
+      213: 576822236170566553
+    second: TinyRPG_Modified_46
+  - first:
+      213: 6375660561736128587
+    second: TinyRPG_Modified_47
+  - first:
+      213: -9183581162781623327
+    second: TinyRPG_Modified_48
+  - first:
+      213: -8454989426201295727
+    second: TinyRPG_Modified_49
+  - first:
+      213: 8379864407281695657
+    second: TinyRPG_Modified_50
+  - first:
+      213: 3576733381401224631
+    second: TinyRPG_Modified_51
+  - first:
+      213: 2371010519061810804
+    second: TinyRPG_Modified_52
+  - first:
+      213: -3138119421062736698
+    second: TinyRPG_Modified_53
+  - first:
+      213: 8650889672709706616
+    second: TinyRPG_Modified_54
+  - first:
+      213: -8502799710005321995
+    second: TinyRPG_Modified_55
+  - first:
+      213: 6227997655981989360
+    second: TinyRPG_Modified_56
+  - first:
+      213: -8711494394220874998
+    second: TinyRPG_Modified_57
+  - first:
+      213: -7336846348989713926
+    second: TinyRPG_Modified_58
+  - first:
+      213: -341655395260606974
+    second: TinyRPG_Modified_59
+  - first:
+      213: -5524989910910781790
+    second: TinyRPG_Modified_60
+  - first:
+      213: 3126499126307716570
+    second: TinyRPG_Modified_61
+  - first:
+      213: 9153429903618528628
+    second: TinyRPG_Modified_62
+  - first:
+      213: -1687378727090229727
+    second: TinyRPG_Modified_63
+  - first:
+      213: -102842473354311954
+    second: TinyRPG_Modified_64
+  - first:
+      213: -2648607714632072626
+    second: TinyRPG_Modified_65
+  - first:
+      213: -6249221143793169867
+    second: TinyRPG_Modified_66
+  - first:
+      213: 1228435539882811916
+    second: TinyRPG_Modified_67
+  - first:
+      213: -5197245551032784343
+    second: TinyRPG_Modified_68
+  - first:
+      213: -7599753218110968780
+    second: TinyRPG_Modified_69
+  - first:
+      213: 6382915702714192926
+    second: TinyRPG_Modified_70
+  - first:
+      213: -7018663637032690151
+    second: TinyRPG_Modified_71
+  - first:
+      213: -5502200993869711553
+    second: TinyRPG_Modified_72
+  - first:
+      213: -2742340797460238670
+    second: TinyRPG_Modified_73
+  - first:
+      213: -8363411302542477564
+    second: TinyRPG_Modified_74
+  - first:
+      213: 6780467258662332245
+    second: TinyRPG_Modified_75
+  - first:
+      213: -1880062088230752213
+    second: TinyRPG_Modified_76
+  - first:
+      213: 6032916744961879977
+    second: TinyRPG_Modified_77
+  - first:
+      213: -9019378034232529668
+    second: TinyRPG_Modified_78
+  - first:
+      213: -1729708012249467776
+    second: TinyRPG_Modified_79
+  - first:
+      213: 5209114974790189629
+    second: TinyRPG_Modified_80
+  - first:
+      213: 3869548662086185586
+    second: TinyRPG_Modified_81
+  - first:
+      213: 2719104349929936184
+    second: TinyRPG_Modified_82
+  - first:
+      213: 8354141305321395779
+    second: TinyRPG_Modified_83
+  - first:
+      213: -3094084144623581956
+    second: TinyRPG_Modified_84
+  - first:
+      213: 7245566418865133237
+    second: TinyRPG_Modified_85
+  - first:
+      213: -5628044134956741480
+    second: TinyRPG_Modified_86
+  - first:
+      213: -3344588751684894551
+    second: TinyRPG_Modified_87
+  - first:
+      213: -6735635824367283625
+    second: TinyRPG_Modified_88
+  - first:
+      213: -1955754828571633885
+    second: TinyRPG_Modified_89
+  - first:
+      213: -8526219313876628764
+    second: TinyRPG_Modified_90
+  - first:
+      213: 830245269880991221
+    second: TinyRPG_Modified_91
+  - first:
+      213: 2970704011146723803
+    second: TinyRPG_Modified_92
+  - first:
+      213: 4839392976633817531
+    second: TinyRPG_Modified_93
+  - first:
+      213: 191269208715301568
+    second: TinyRPG_Modified_94
+  - first:
+      213: -4875907625202530177
+    second: TinyRPG_Modified_95
+  - first:
+      213: 8775564632336080016
+    second: TinyRPG_Modified_96
+  - first:
+      213: 3972186515020249303
+    second: TinyRPG_Modified_97
+  - first:
+      213: -1720603862621916265
+    second: TinyRPG_Modified_98
+  - first:
+      213: 9011221019365064687
+    second: TinyRPG_Modified_99
+  - first:
+      213: -6627464633352517578
+    second: TinyRPG_Modified_100
+  - first:
+      213: 1542009301089899605
+    second: TinyRPG_Modified_101
+  - first:
+      213: 5292349016851747984
+    second: TinyRPG_Modified_102
+  - first:
+      213: 2401312674102180791
+    second: TinyRPG_Modified_103
+  - first:
+      213: -5320898444326572445
+    second: TinyRPG_Modified_104
+  - first:
+      213: -5732777735958243349
+    second: TinyRPG_Modified_105
+  - first:
+      213: 968117473003048511
+    second: TinyRPG_Modified_106
+  - first:
+      213: -3381438633628917834
+    second: TinyRPG_Modified_107
+  - first:
+      213: 3532849076918822595
+    second: TinyRPG_Modified_108
+  - first:
+      213: 155010445792028701
+    second: TinyRPG_Modified_109
+  - first:
+      213: 3422267175749551328
+    second: TinyRPG_Modified_110
+  - first:
+      213: -7419572016783726599
+    second: TinyRPG_Modified_111
+  - first:
+      213: -4440392620546800016
+    second: TinyRPG_Modified_112
+  - first:
+      213: -8421411816198225164
+    second: TinyRPG_Modified_113
+  - first:
+      213: -5716285922547540660
+    second: TinyRPG_Modified_114
+  - first:
+      213: 6194622497841139280
+    second: TinyRPG_Modified_115
+  - first:
+      213: 6201497179872029090
+    second: TinyRPG_Modified_116
+  - first:
+      213: 6300446299265846680
+    second: TinyRPG_Modified_117
+  - first:
+      213: -2541059632467546656
+    second: TinyRPG_Modified_118
+  - first:
+      213: -254753685109206891
+    second: TinyRPG_Modified_119
+  - first:
+      213: 8280402468184440164
+    second: TinyRPG_Modified_120
+  - first:
+      213: -8369329189445253652
+    second: TinyRPG_Modified_121
+  - first:
+      213: 1257617138924062174
+    second: TinyRPG_Modified_122
+  - first:
+      213: 6833069221704691429
+    second: TinyRPG_Modified_123
+  - first:
+      213: -2346979583441199639
+    second: TinyRPG_Modified_124
+  - first:
+      213: -983076389243538295
+    second: TinyRPG_Modified_125
+  - first:
+      213: 88885015326093833
+    second: TinyRPG_Modified_126
+  - first:
+      213: 5889191044824936656
+    second: TinyRPG_Modified_127
+  - first:
+      213: 4058095184714818890
+    second: TinyRPG_Modified_128
+  - first:
+      213: 7052181201036973757
+    second: TinyRPG_Modified_129
+  - first:
+      213: -8360327876597231565
+    second: TinyRPG_Modified_130
+  - first:
+      213: -2220845938176405262
+    second: TinyRPG_Modified_131
+  - first:
+      213: -6515939267599961126
+    second: TinyRPG_Modified_132
+  - first:
+      213: 4690884571868521498
+    second: TinyRPG_Modified_133
+  - first:
+      213: 4302179150547969592
+    second: TinyRPG_Modified_134
+  - first:
+      213: 5377347113115086274
+    second: TinyRPG_Modified_135
+  - first:
+      213: -4911273959580752119
+    second: TinyRPG_Modified_136
+  - first:
+      213: 506150977315589213
+    second: TinyRPG_Modified_137
+  - first:
+      213: 74625431949140276
+    second: TinyRPG_Modified_143
+  - first:
+      213: -234036469116043312
+    second: TinyRPG_Modified_144
+  - first:
+      213: 8149570884551501024
+    second: TinyRPG_Modified_145
+  - first:
+      213: -6284339634970688221
+    second: TinyRPG_Modified_146
+  - first:
+      213: 7188181410814512237
+    second: TinyRPG_Modified_147
+  - first:
+      213: 7050694286417764130
+    second: TinyRPG_Modified_148
+  - first:
+      213: -5491282310777496236
+    second: TinyRPG_Modified_149
+  - first:
+      213: 7442196476309459140
+    second: TinyRPG_Modified_150
+  - first:
+      213: -2405188115621785344
+    second: TinyRPG_Modified_151
+  - first:
+      213: 5436746422164423435
+    second: TinyRPG_Modified_152
+  - first:
+      213: -1845588703188902510
+    second: TinyRPG_Modified_153
+  - first:
+      213: 6722680898956579472
+    second: TinyRPG_Modified_154
+  - first:
+      213: 1071400021004677468
+    second: TinyRPG_Modified_155
+  - first:
+      213: 5891671303335056529
+    second: TinyRPG_Modified_156
+  - first:
+      213: 7077892350488163218
+    second: TinyRPG_Modified_157
+  - first:
+      213: 6402078389270352879
+    second: TinyRPG_Modified_158
+  - first:
+      213: -4131525283465098525
+    second: TinyRPG_Modified_159
+  - first:
+      213: -6927594417598583989
+    second: TinyRPG_Modified_160
+  - first:
+      213: -4283743784255783274
+    second: TinyRPG_Modified_161
+  - first:
+      213: -55961940046947736
+    second: TinyRPG_Modified_162
+  - first:
+      213: -6478441754099692029
+    second: TinyRPG_Modified_163
+  - first:
+      213: -37025078677289909
+    second: TinyRPG_Modified_164
+  - first:
+      213: 5254704571688827331
+    second: TinyRPG_Modified_165
+  - first:
+      213: 8824687415653122221
+    second: TinyRPG_Modified_166
+  - first:
+      213: -5655836104636773935
+    second: TinyRPG_Modified_167
+  - first:
+      213: 516016388173630941
+    second: TinyRPG_Modified_168
+  - first:
+      213: -1722311013418883004
+    second: TinyRPG_Modified_169
+  - first:
+      213: 129622875331822134
+    second: TinyRPG_Modified_170
+  - first:
+      213: -524586663313364781
+    second: TinyRPG_Modified_171
+  - first:
+      213: 3458054925742218376
+    second: TinyRPG_Modified_172
+  - first:
+      213: -4686246711708650490
+    second: TinyRPG_Modified_173
+  - first:
+      213: 1368610387792127532
+    second: TinyRPG_Modified_174
+  - first:
+      213: 789703527240886928
+    second: TinyRPG_Modified_175
+  - first:
+      213: -8543459403387683344
+    second: TinyRPG_Modified_176
+  - first:
+      213: 4578837845644565372
+    second: TinyRPG_Modified_177
+  - first:
+      213: 1247559756411152696
+    second: TinyRPG_Modified_178
+  - first:
+      213: 1754338720998466987
+    second: TinyRPG_Modified_179
+  - first:
+      213: -4872168119874539713
+    second: TinyRPG_Modified_180
+  - first:
+      213: -7820060779430971050
+    second: TinyRPG_Modified_181
+  - first:
+      213: -2567540873872077098
+    second: TinyRPG_Modified_182
+  - first:
+      213: -5176443671443602981
+    second: TinyRPG_Modified_183
+  - first:
+      213: -1908479981874506384
+    second: TinyRPG_Modified_184
+  - first:
+      213: 601189326834113790
+    second: TinyRPG_Modified_185
+  - first:
+      213: -4765504120369086623
+    second: TinyRPG_Modified_186
+  - first:
+      213: -4009414686547163677
+    second: TinyRPG_Modified_187
+  - first:
+      213: 1460044435492345612
+    second: TinyRPG_Modified_188
+  - first:
+      213: -582535781286064583
+    second: TinyRPG_Modified_189
+  - first:
+      213: 5082514007245168422
+    second: TinyRPG_Modified_190
+  - first:
+      213: 4712818486441785783
+    second: TinyRPG_Modified_191
+  - first:
+      213: 3106958980266765945
+    second: TinyRPG_Modified_192
+  - first:
+      213: 8027455648791102034
+    second: TinyRPG_Modified_193
+  - first:
+      213: 2222869386136769583
+    second: TinyRPG_Modified_194
+  - first:
+      213: -966058294176230325
+    second: TinyRPG_Modified_195
+  - first:
+      213: -1775803153885767707
+    second: TinyRPG_Modified_196
+  - first:
+      213: -4036355043697172087
+    second: TinyRPG_Modified_197
+  - first:
+      213: 8962460857937395658
+    second: TinyRPG_Modified_198
+  - first:
+      213: -8897943648367853439
+    second: TinyRPG_Modified_199
+  - first:
+      213: 6500171459814490615
+    second: TinyRPG_Modified_200
+  - first:
+      213: -4298954511248229150
+    second: TinyRPG_Modified_201
+  - first:
+      213: 1089904226302996897
+    second: TinyRPG_Modified_202
+  - first:
+      213: 5924714814032102654
+    second: TinyRPG_Modified_203
+  - first:
+      213: -8864854036978335359
+    second: TinyRPG_Modified_204
+  - first:
+      213: 5607453861951741220
+    second: TinyRPG_Modified_205
+  - first:
+      213: -3446413781128884720
+    second: TinyRPG_Modified_206
+  - first:
+      213: -8810099198943824309
+    second: TinyRPG_Modified_207
+  - first:
+      213: 8374653128653689395
+    second: TinyRPG_Modified_208
+  - first:
+      213: 8602880189355376798
+    second: TinyRPG_Modified_209
+  - first:
+      213: 6222294904832875565
+    second: TinyRPG_Modified_210
+  - first:
+      213: -469871341909084727
+    second: TinyRPG_Modified_211
+  - first:
+      213: 1742462794641490602
+    second: TinyRPG_Modified_212
+  - first:
+      213: -3051049312834506702
+    second: TinyRPG_Modified_213
+  - first:
+      213: -6205115655323773114
+    second: TinyRPG_Modified_214
+  - first:
+      213: -6990528601812306166
+    second: TinyRPG_Modified_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TinyRPG_Modified_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f4635e42b33842b1e7c7b519ff37f
+      internalID: -4201421591346631324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb77bff9150bd543b123df20a40fa38
+      internalID: 5984460280556764861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01583579ca73cf34ca89e22a29467a0e
+      internalID: -2021616657562330854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678aea9f2f1c9443a6733a8a4d9347b
+      internalID: -7497356564488894428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37f3cecd3811c45b1a845c7639de33
+      internalID: -2059024665671267244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd80e31a48d9e84293ec67cdd041adc
+      internalID: 4786039188611457883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251514e245f0c6c4caaaeb933c39f85c
+      internalID: -8024263573197328274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbe5d3767bb6d346803cb2d716b6ac4
+      internalID: -1250807887190466210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d95ed11add0094a84c9c093d55f4df
+      internalID: -1030340086542579877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979746103477a0643bcf610a0f64534f
+      internalID: 9188598105538347378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f7a63f8355514193c88342814db73
+      internalID: -926591403796644419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c656d06add64324a82f9dcea1a6a37c
+      internalID: 2932562488989712296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e426403e140a43bca4ec8ae865551
+      internalID: -1006662891788128893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a00247a4977d942b162f14cb89526e
+      internalID: 4958474959559323370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2411d94f15bc43baf9147711d85b8
+      internalID: 1072991362033371294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac5656f4074e44e97bb79da87b1c9c
+      internalID: -7250150872697477529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664d5d8afdad86439e4f3f9e96dc704
+      internalID: -7648102764180987967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7484dd807b6baa44c8a50795628091fa
+      internalID: -7971603437879104738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e7bb00f82441c4cab528e3f927f570
+      internalID: 3807776626581297593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31de5f6d04f2b549b80c86cf784952d
+      internalID: 4079225875545606852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40596fc6b306f46aeddf6ee7982d3e
+      internalID: 1406467991632768952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728baef758ce914e81e407cbb043fa5
+      internalID: 1405243837297962389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb71ae0ae39ed438012ebfe8454603
+      internalID: 698472646282032654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574dfc61a913eb4eb107b0fca9ab0ed
+      internalID: -3014392354019699847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a6458e9f3f3f4181c4c1c13b36d00
+      internalID: -5020992535468904618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903d51532b4c6c4abe8a4fbbc0bd3c2
+      internalID: 3016194271863585279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aad3aad7ce3414da0738e61c009a27
+      internalID: -5318889127434891004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a5f0468baa7144890ad9562e6d65f
+      internalID: -7300764089867188924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98762b14b5ac8a4e888e0bc79dd9488
+      internalID: -5144203384383326842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235500f4b273e96438380148dde35a81
+      internalID: -2296285102014253362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b534604812a8af48ab5141a4bae6807
+      internalID: -2150957043348121138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efdc9b2834e9b409089173fadbb0b1
+      internalID: 122189833376233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f39e3771bb804188737f89c1857e7
+      internalID: 5130522803596910022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f884d66d1f6e82147b7fcd201e1c2d5a
+      internalID: -7331047215914232197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a00d3f45013204db2d8393ee93d2b2
+      internalID: -2529254608559183687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44bf070f553e049a15f6c577a3d154
+      internalID: -1622077407675760954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92699cd88d3eff74c8c61b3d4c17dc29
+      internalID: -5517971549132364051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb8fbbd46b86140b94eb2133d31e05
+      internalID: 1178002456805958566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd357bb9a08b644286fb192d249077b
+      internalID: 188299012233992579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6758c48000514340afd192f0eba5891
+      internalID: -7202778246754732051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b90206c1be734b94b9fee25e6575f
+      internalID: -3406659460273351338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c836d80744d54e9e7c3e3a2bd26ef
+      internalID: -2463911928589698640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35d418ce48a2941966265f8e2b6752
+      internalID: 581793334950424380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0ffb9a1b8de548b2a622f4c15b081
+      internalID: -6257635059955497925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79564aa6c18f2ba4fb4c7dc1441e4677
+      internalID: -1999570050838625430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0ff64c06381b4baedc069eece8211
+      internalID: 1832880112919989163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32baea95e6034041a9c376e8847176c
+      internalID: 576822236170566553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc3b9586c7478449822ca390c49ec9
+      internalID: 6375660561736128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b9900a970284439fe08bdcca7612b
+      internalID: -9183581162781623327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2a6750000fcd4fbbea803a65adb85
+      internalID: -8454989426201295727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff77991ce062f40a12b737c1578788
+      internalID: 8379864407281695657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036c705ec0014d45b2bb77c51aa6bae
+      internalID: 3576733381401224631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42827e8be0def0f4dac27c5c148506db
+      internalID: 2371010519061810804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aff1dd9390c8d4699e73cdd62ff4dd
+      internalID: -3138119421062736698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffddab80aa80754fa4289acf8361158
+      internalID: 8650889672709706616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312c7687fef26646b59bb9404802cfb
+      internalID: -8502799710005321995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51dc6978160a24b87d00f2056ddfc0
+      internalID: 6227997655981989360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bceada5eda46674b9837abc9039f36b
+      internalID: -8711494394220874998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec0c9b7c5211647923814635124a85
+      internalID: -7336846348989713926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c466cb29d7b3c45a979a4519090212
+      internalID: -341655395260606974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497ad497fc038742be88e143d3f9832
+      internalID: -5524989910910781790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8476cb7451e58640ba288023f896477
+      internalID: 3126499126307716570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_62
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241131ff88562d4e86eef96869cbe64
+      internalID: 9153429903618528628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a121c3db4c13eb241ba664a15f98cb10
+      internalID: -1687378727090229727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb90c46d454c004398f0d33c8bfe86e
+      internalID: -102842473354311954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f10aa6c8c46c4c863ef2e48a40271
+      internalID: -2648607714632072626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923625d73ea4bac47b5ed8c2f932b78d
+      internalID: -6249221143793169867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700afbade4207c4aa1c8465cf1ab1b2
+      internalID: 1228435539882811916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c35d65d2b1e05408c4a3f0698e03f0
+      internalID: -5197245551032784343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7b6a7882c68f4ab08b59e7118405f
+      internalID: -7599753218110968780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710923502bfe36f46aef82da1b645929
+      internalID: 6382915702714192926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6184de901d4cbe342b47626732c53ffe
+      internalID: -7018663637032690151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc479276287144785ce31d9d10c0a7
+      internalID: -5502200993869711553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bf5bdaede508449215d0b46648f7f
+      internalID: -2742340797460238670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92b8e613aa52a4484c065a823bfec0
+      internalID: -8363411302542477564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf87ffe5c6a80a4aa6af19441db2923
+      internalID: 6780467258662332245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90b888afcbdb54b81e629ec0bd7d4f
+      internalID: -1880062088230752213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45682aec60266264fb4f41518c509ab1
+      internalID: 6032916744961879977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2019133c988ceb4f993f9ae4b11c424
+      internalID: -9019378034232529668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a80b69bbbb874e96d245362cb999d
+      internalID: -1729708012249467776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_80
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ecf7b7e9a93b42abc4bf6dc305c08
+      internalID: 5209114974790189629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a339774a7e28641bd59c56d059a12a
+      internalID: 3869548662086185586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb120e7d581b944ac93eb2caa55394
+      internalID: 2719104349929936184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52755c166b6f6e94984f586c88f3927f
+      internalID: 8354141305321395779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af820c22d1a4e4bb3c0af73060f096
+      internalID: -3094084144623581956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48bcd3643b1fe64888e60397671fd76
+      internalID: 7245566418865133237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62092ab0f2eec92499a96986db18daad
+      internalID: -5628044134956741480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8420f3ca6862e34683b54daf45c2db1
+      internalID: -3344588751684894551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fff39b7ae16e40b35b454a3e0db37
+      internalID: -6735635824367283625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896807bdb6256c54fa527dc0f2f1d809
+      internalID: -1955754828571633885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52689c94545516c408bed914043d6f54
+      internalID: -8526219313876628764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17942e0b89e954e896fbf905eb6982
+      internalID: 830245269880991221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ae6b476f4545478cd9c47f45b6c0c
+      internalID: 2970704011146723803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ba569741088046930e4e36cfbff5f
+      internalID: 4839392976633817531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0dffb5377d6446863ee77450d21b0
+      internalID: 191269208715301568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eff7efe7c459f459914777059a7356
+      internalID: -4875907625202530177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_96
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286e9825293fe244b15f848e2e62948
+      internalID: 8775564632336080016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2752fac8a72c4e93965d910d4ebf6
+      internalID: 3972186515020249303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213a1619b9a7d64baec58b0cff92de9
+      internalID: -1720603862621916265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130b35b27ff25540bad78c430b9d152
+      internalID: 9011221019365064687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_100
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805d86e619d06ba4ca7ba446c85a1860
+      internalID: -6627464633352517578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27499ae4386f63439ad7a7b4ec59a05
+      internalID: 1542009301089899605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_102
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb234ec96af916409da34a717db21e4
+      internalID: 5292349016851747984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_103
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c36269e32ad114f968d9e2fbf4bf21
+      internalID: 2401312674102180791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa4bcb0cbe8ce4e9a2612a84810a22
+      internalID: -5320898444326572445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c520ba03a1c7414b9dcdf900ce8ac3e
+      internalID: -5732777735958243349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_106
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea72c53f7a1494a8c4035e2d3c0bd1
+      internalID: 968117473003048511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef19ef9c29aa848845b731a13d5bf2
+      internalID: -3381438633628917834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e588a5c0097241ba4cffe1d3d3598
+      internalID: 3532849076918822595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1057e731eb4a459635728bbe978d7
+      internalID: 155010445792028701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_110
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef43847c1aae542b9e9ffb2718da32
+      internalID: 3422267175749551328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c318c5dd2d13e4cb915833e0065348
+      internalID: -7419572016783726599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065dd6556da580a4aada02aca97488fd
+      internalID: -4440392620546800016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da3edf2e5c50e64e99de1125d959bff
+      internalID: -8421411816198225164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_114
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3dccf245538394e93fc8660d0fa2ba
+      internalID: -5716285922547540660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_115
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573d970090ec3f4994893499cd8f5d0
+      internalID: 6194622497841139280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c58c2fd7b06264480f22d99ea71d9c
+      internalID: 6201497179872029090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29f29c82844bf4188031b15022b507
+      internalID: 6300446299265846680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549db9db67af1e54e9c82c9ed707209a
+      internalID: -2541059632467546656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_119
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec448a402d6cc458a68b60df40c0d6
+      internalID: -254753685109206891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_120
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbde9712990b1246b68bc1c8659de04
+      internalID: 8280402468184440164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bfa58c2862f34fb198ad190a9102e
+      internalID: -8369329189445253652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_122
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbeb21d3b513134f893ca39f3c140e9
+      internalID: 1257617138924062174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_123
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbe150d15d143d4c89e0e3b91b0c139
+      internalID: 6833069221704691429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c370ddf392110f48a3b6920a290a519
+      internalID: -2346979583441199639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51ff6d2468fde4e825693be13ea33e
+      internalID: -983076389243538295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_126
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6619ca5b5180478e3e794a966ebae
+      internalID: 88885015326093833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4393bb2da0a145bfd7551185e0f97
+      internalID: 5889191044824936656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_128
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce428c62a64e70244a0278d78e7dc02c
+      internalID: 4058095184714818890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_129
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be686f415d0d394b9e9e291a8378958
+      internalID: 7052181201036973757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272c8417e235124dbaf452dd12bb43f
+      internalID: -8360327876597231565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161950c254ea5594ab4d606a753b72cd
+      internalID: -2220845938176405262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_132
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8aa2289f61578479f849d7652af855
+      internalID: -6515939267599961126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_133
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd990cbb7800d8848a044d5964080e8b
+      internalID: 4690884571868521498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20aff359a6fe2f4ba2b68c1411d5f97
+      internalID: 4302179150547969592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_135
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3831854680b2f419f824647a77df42
+      internalID: 5377347113115086274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRPG_Modified_136
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2062e3b6164b043a3a01f42e2a5ba3
+      internalID: -4911273959580752119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
